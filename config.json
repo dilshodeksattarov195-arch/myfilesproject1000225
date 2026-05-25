@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondrocess",
+        "uuid": 940725,
+        "checksum": "d05548"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
